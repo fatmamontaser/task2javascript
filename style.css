@@ -1,0 +1,21 @@
+.container{
+margin: 100px;
+
+}
+
+.counter{
+color: rgb(150, 150, 211);
+
+}
+
+.rows{
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 20px;
+
+}
+.rows div{
+
+    padding: 40px;
+}
